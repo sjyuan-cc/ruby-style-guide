@@ -3944,3 +3944,5 @@ Cheers,<br>
 [Pandoc]: http://pandoc.org/
 [RuboCop]: https://github.com/bbatsov/rubocop
 [rdoc]: http://rdoc.sourceforge.net/doc/
+
+-----------------------
